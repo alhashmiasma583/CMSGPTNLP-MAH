@@ -1,6 +1,6 @@
 # Enhancing Clinical Documentation Accuracy through Generative Pre-Training Powered Natural Language Processing for Medical Speciality Recommendation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) <!-- Generate this via Zenodo -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20458174.svg)](https://doi.org/10.5281/zenodo.20458174)
 
 This repository contains the official source code and implementation details for the **CMSGPTNLP-MAH** framework, as presented in our paper published in ***The Visual Computer***. 
 
